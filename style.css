@@ -206,3 +206,17 @@ body {
     height: 35px;
     margin-bottom: 10px;
 }
+
+.footer-section {
+    background-color: #1F2937;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.copyright-text {
+    font-size: 18px;
+    font-weight: 10;
+    color: lightgray;
+}
