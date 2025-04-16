@@ -2,22 +2,6 @@
 
 Welcome to my **Landing Page** project! This is a hands-on exercise in building a multi-section webpage using HTML and CSS. It showcases foundational web development skills, focusing on semantic HTML, CSS Flexbox, and responsive design principles.
 
-## Table of Contents
-
-- [Live Demo](#live-demo)
-- [Project Overview](#project-overview)
-- [Key Features](#key-features)
-- [Tech Stack](#tech-stack)
-- [What I Learned](#what-i-learned)
-
-## Live Demo
-
-Check out the live version of this project [here](https://thedeepak12.github.io/landing-page/)!  
-
-## Project Overview
-
-This landing page features a clean, modern design with a dark-themed header and footer, a striking hero section, informative content blocks, a motivational quote, and a bold call-to-action. The focus is on mastering layout techniques and ensuring the page looks great.
-
 ## Key Features
 
 - **Header**: A sleek navigation bar with a "Header Logo" on the left and links ("header link one", "header link two", "header link three") on the right, set against a dark background.
